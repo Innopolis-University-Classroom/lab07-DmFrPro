@@ -13,10 +13,10 @@ public:
         num2 = n2;
     }
 
-    int add() { return n1 + n2; }
-    int subtract() { return n1 - n2; }
-    int multiply() { return n1 * n2; }
-    int divide() { return n1 / n2; }
+    int add() { return num1 + num2; }
+    int subtract() { return num1 - num2; }
+    int multiply() { return num1 * num2; }
+    int divide() { return num1 / num2; }
 };
 
 
